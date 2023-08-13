@@ -1,0 +1,5 @@
+D:\java\New folder\New folder\SimpleCalculator\x64\Debug\SimpleCalculator.vcxproj.AssemblyReference.cache
+D:\java\New folder\New folder\SimpleCalculator\x64\Debug\SimpleCalculator.vcxproj.SuggestedBindingRedirects.cache
+D:\java\New folder\New folder\SimpleCalculator\x64\Debug\SimpleCalculator.MyForm.resources
+D:\java\New folder\New folder\SimpleCalculator\x64\Debug\SimpleCalculator.vcxproj.GenerateResource.cache
+D:\java\New folder\New folder\SimpleCalculator\x64\Debug\SimpleCalculator.exe

@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\java\New folder\New folder\SimpleCalculator\MyForm.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SimpleCalculator.vcxproj -> D:\java\New folder\New folder\SimpleCalculator\x64\Debug\SimpleCalculator.exe

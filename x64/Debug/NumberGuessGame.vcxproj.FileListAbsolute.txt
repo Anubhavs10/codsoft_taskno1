@@ -1,0 +1,5 @@
+D:\java\New folder\New folder\NumberGuessGame\x64\Debug\NumberGuessGame.vcxproj.AssemblyReference.cache
+D:\java\New folder\New folder\NumberGuessGame\x64\Debug\NumberGuessGame.vcxproj.SuggestedBindingRedirects.cache
+D:\java\New folder\New folder\NumberGuessGame\x64\Debug\NumberGuessGame.MyForm.resources
+D:\java\New folder\New folder\NumberGuessGame\x64\Debug\NumberGuessGame.vcxproj.GenerateResource.cache
+D:\java\New folder\New folder\NumberGuessGame\x64\Debug\NumberGuessGame.exe

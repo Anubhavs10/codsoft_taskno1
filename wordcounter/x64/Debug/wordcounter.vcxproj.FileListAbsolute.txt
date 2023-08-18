@@ -1,0 +1,5 @@
+D:\java\New folder\codsoft\New folder\wordcounter\x64\Debug\wordcounter.vcxproj.AssemblyReference.cache
+D:\java\New folder\codsoft\New folder\wordcounter\x64\Debug\wordcounter.vcxproj.SuggestedBindingRedirects.cache
+D:\java\New folder\codsoft\New folder\wordcounter\x64\Debug\wordcounter.Form1.resources
+D:\java\New folder\codsoft\New folder\wordcounter\x64\Debug\wordcounter.vcxproj.GenerateResource.cache
+D:\java\New folder\codsoft\New folder\wordcounter\x64\Debug\wordcounter.exe
